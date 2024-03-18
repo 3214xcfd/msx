@@ -12,12 +12,7 @@
       "color": "msx-glass"
    },
    "items": [
-      {
-         "title":"4K",
-         "image": "https://t.ly/umGUn",
-         "action": "link:https://t.ly/qmQuX"
-      },
-     {
+	{
          "title":"1080p",
          "image": "https://t.ly/_XSRG",
          "action": "link:https://t.ly/oYc-e"
