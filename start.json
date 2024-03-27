@@ -20,7 +20,7 @@
 	  {
          "title":"TV",
          "image": "https://ott.drm-play.com/android-icon-192x192.png",
-         "action": "link:drm-play.com/"
+         "action": "link:https://drm-play.com/"
       },
 	  {
          "title":"4K",
