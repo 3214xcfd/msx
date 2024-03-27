@@ -31,6 +31,12 @@
          "title":"720p",
          "image": "https://lampa.mx/msx-logo.png",
          "action": "link:https://bylampa.line.pm/"
+      },
+      {
+	"title":"ТВ каналы",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/iptv.png",
+         "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
       }
+   
    ]
 }
